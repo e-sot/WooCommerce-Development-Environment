@@ -1,0 +1,6 @@
+---
+box: "ubuntu/focal64" 
+hostname: "devbox"
+private_ip: "192.168.33.10"
+cpus: "4"
+memory: "8096"
