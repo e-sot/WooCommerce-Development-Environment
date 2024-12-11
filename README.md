@@ -49,15 +49,8 @@ This project provides a complete local development environment for WooCommerce s
 
 ## Environment Configuration
 
-Configure your development environment by editing the `.env` file with your preferred settings:
+Configure your development environment by editing and renaming the env.example to `.env` file with your preferred settings:
 
-```env
-WORDPRESS_SITE_URL=http://localhost:8181
-WORDPRESS_SITE_TITLE="My WooCommerce Store"
-WORDPRESS_ADMIN_USER=admin
-WORDPRESS_ADMIN_PASSWORD=password
-WORDPRESS_ADMIN_EMAIL=admin@example.com
-```
 
 ## Project Structure
 
